@@ -1,0 +1,10 @@
+.home{
+    margin: 10%;
+    text-align: center;
+}
+#info-link{
+    margin:auto;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
